@@ -1,5 +1,5 @@
 # JulioMenezes2022POC1
-## Oi! eu sou Dr. Julio Menezes, criando um repositório para Disciplina POC12021-2/UFS!
+## Oi! eu sou Dr. Julio Menezes, criando um repositório para Disciplina POC12021-2/UFS! Onde sou aluno de Engenharia de Computação.
 <div align="center">
   <a href="https://github.com/JulioMenezes2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliomenezes2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
